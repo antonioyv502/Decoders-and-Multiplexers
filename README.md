@@ -9,10 +9,12 @@ This lab demonstrates the design and implementation of combinational logic circu
 ## Circuit Diagrams
 
 ### Decoder Implementation (F1 and F2)
-![Decoder Circuit](images/decoder-circuit.png)
+![Decoder Circuit](Breadboard_Implementation_Images
+/Decoder_Circuit.jpeg)
 
 ### Multiplexer Implementation
-![MUX Circuit](images/mux-circuit.png)
+![MUX Circuit](Breadboard_Implementation_Images
+/MUX_Circuit.jpeg)
 
 ##  Waveform Observations
 
