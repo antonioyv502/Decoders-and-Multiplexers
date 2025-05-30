@@ -17,10 +17,10 @@ This lab demonstrates the design and implementation of combinational logic circu
 ##  Waveform Observations
 
 ### F1
-![F1 Waveform](Waveforms/F1-Waveform.png)
+![F1 Waveform](Waveforms/F1_Waveform.png)
 
 ### F2
-![F2 Waveform](Waveforms/F2-Waveform.png)
+![F2 Waveform](Waveforms/F2_Waveform.png)
 
 ### MUX
-![MUX Waveform](Waveforms/MUX-Waveform.png)
+![MUX Waveform](Waveforms/MUX_Waveform.png)
