@@ -1,11 +1,23 @@
 # Decoders and Multiplexers Lab 
 This lab demonstrates the design and implementation of combinational logic circuits using decoders and multiplexers.
 
-## Expressions
+## Experiments
 
-- **F1** = X’Y’Z’ + YZ
-- **F2** = X’Z + Y’
-- **MUX** = X’YZ’ + Y'Z + X'Y
+### 🔹 Experiment 7.1 – Decoder Implementation
+
+- **F1 minterms**: (0, 3, 7)  
+  - Expression: F1 = X'Y'Z' + YZ
+- **F2 minterms**: (0, 1, 3, 4, 5)  
+  - Expression: F2 = X'Z + Y'
+- Implemented using a 3-to-8 decoder.
+- Verified using oscilloscope
+
+### 🔹 Experiment 7.2 – Multiplexer Implementation
+
+- **Function minterms**: 1, 3, 5, 6
+  - MUX Expression: F = X'YZ' + Y'Z + X'Y
+- Implemented using 8-to-1 multiplexer logic.
+- Verified using oscilloscope 
 
 ## 🔧 Tools Used
 - KiCad for circuit design
