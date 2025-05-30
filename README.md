@@ -16,7 +16,7 @@ This lab demonstrates the design and implementation of combinational logic circu
 
 - **Function minterms**: 1, 3, 5, 6
   - MUX Expression: F = X'YZ' + Y'Z + X'Y
-- Implemented using 8-to-1 multiplexer logic.
+- Implemented using 8-to-1 multiplexer.
 - Verified using oscilloscope 
 
 ## 🔧 Tools Used
