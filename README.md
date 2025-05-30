@@ -1,6 +1,12 @@
 # Decoders and Multiplexers Lab 
 This lab demonstrates the design and implementation of combinational logic circuits using decoders and multiplexers.
 
+## Expressions
+
+- **F1** = X’Y’Z’ + YZ
+- **F2** = X’Z + Y’
+- **MUX** = X’YZ’ + Y'Z + X'Y
+
 ## 🔧 Tools Used
 - KiCad for circuit design
 - Breadboard for implementation
