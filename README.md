@@ -1,5 +1,5 @@
 # Decoders and Multiplexers Lab 
-This project demonstrates the design and implementation of combinational logic circuits using decoders and multiplexers.
+This lab demonstrates the design and implementation of combinational logic circuits using decoders and multiplexers.
 
 ## 🔧 Tools Used
 - KiCad for circuit design
